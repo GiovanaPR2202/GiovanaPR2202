@@ -1,6 +1,3 @@
-<div align ="center">
-  <img src="https://media4.giphy.com/media/K21rOi4sCufzZ7YZle/giphy.gif?cid=ecf05e473p1qkz3mmi2buz7kdwmyrxes2a5vi5j992jc3pns&rid=giphy.gif&ct=s"  width="100"/>
-<div>
 <div align="center">
 <a href="https://www.linkedin.com/in/giovana-pereira-303180164/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://twitter.com/koalaanxious22"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
