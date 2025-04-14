@@ -28,8 +28,8 @@
 
 
 <div style="display: inline_block" align="center"><br>
-    <a href="https://x.com/KoalaAnxious22" target="_blank">
-      <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" alt="X">&nbsp;
+    <a href="mailto:giovanapereira140@gmail.com">
+      <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/giovana-p-rocha/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">&nbsp;
