@@ -42,7 +42,7 @@
 <br>
 
 ### 🚀 Currently Working With
-- 💻 **Languages**: Java, JavaScript
+- 💻 **Languages**: Java, JavaScript, Typescript
 - 🔧 **Frameworks**: Spring Boot, Spring Security, React.js
 - 🎨 **Styling**: Tailwind CSS
 - 🗄️ **Database**: MySQL, PostgreSQL
