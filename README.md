@@ -41,6 +41,21 @@
 
 <br>
 
+### 🚀 Currently Working With
+- 💻 **Languages**: Java, JavaScript
+- 🔧 **Frameworks**: Spring Boot, Spring Security, React.js
+- 🎨 **Styling**: Tailwind CSS
+- 🗄️ **Database**: MySQL, PostgreSQL
+- 🐳 **Tools**: Docker, Flyway, Postman
+- 🧪 **Testing**: JUnit
+
+<br>
+
+### 💬 Languages
+- **Portuguese**: Native
+- **English**: Intermediate/Advanced
+
+<br>
 <h3 align="center">🛠 Technologies & Tools</h3>
 <br>
 <div align="center">
